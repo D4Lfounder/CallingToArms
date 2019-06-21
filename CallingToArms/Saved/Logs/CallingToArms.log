@@ -1065,3 +1065,945 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.20-23.44.03:455][779]LogUObjectHash: Compacting FUObjectHashTables data took  10.88ms
 [2019.06.20-23.44.05:476][779]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMapCE8898334B68E42A7A6E92990A045CA0.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.06.20-23.44.06:382][779]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMap_BuiltDataE142A65041E93F586B173E9379EFC33B.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.21-00.04.15:192][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/AK-47 Icon.png)
+[2019.06.21-00.04.15:368][354]LogTexture: Display: Building textures: AK-47_Icon (AutoDXT, 96X36)
+[2019.06.21-00.04.15:477][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Armor_Border.png)
+[2019.06.21-00.04.15:482][354]LogTexture: Display: Building textures: Armor_Border (BGRA8, 38X12)
+[2019.06.21-00.04.15:528][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Armor_Icon.png)
+[2019.06.21-00.04.15:531][354]LogTexture: Display: Building textures: Armor_Icon (BGRA8, 20X21)
+[2019.06.21-00.04.15:557][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Bar_Fill.png)
+[2019.06.21-00.04.15:561][354]LogTexture: Display: Building textures: Bar_Fill (BGRA8, 291X6)
+[2019.06.21-00.04.15:587][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Bar_NoFill.png)
+[2019.06.21-00.04.15:590][354]LogTexture: Display: Building textures: Bar_NoFill (BGRA8, 291X6)
+[2019.06.21-00.04.15:616][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Grenade1_Icon.png)
+[2019.06.21-00.04.15:620][354]LogTexture: Display: Building textures: Grenade1_Icon (BGRA8, 24X23)
+[2019.06.21-00.04.15:645][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Grenade2_Icon.png)
+[2019.06.21-00.04.15:648][354]LogTexture: Display: Building textures: Grenade2_Icon (AutoDXT, 20X20)
+[2019.06.21-00.04.15:673][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Health_Border.png)
+[2019.06.21-00.04.15:676][354]LogTexture: Display: Building textures: Health_Border (BGRA8, 38X12)
+[2019.06.21-00.04.15:701][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Health_Icon.png)
+[2019.06.21-00.04.15:705][354]LogTexture: Display: Building textures: Health_Icon (AutoDXT, 20X20)
+[2019.06.21-00.04.15:731][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/HitMarker.png)
+[2019.06.21-00.04.15:735][354]LogTexture: Display: Building textures: HitMarker (AutoDXT, 32X32)
+[2019.06.21-00.04.15:778][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Killfeed_Back.png)
+[2019.06.21-00.04.15:781][354]LogTexture: Display: Building textures: Killfeed_Back (BGRA8, 194X28)
+[2019.06.21-00.04.15:805][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Killfeed_Border.png)
+[2019.06.21-00.04.15:809][354]LogTexture: Display: Building textures: Killfeed_Border (BGRA8, 110X33)
+[2019.06.21-00.04.15:834][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/M4AI_Icon.png)
+[2019.06.21-00.04.15:837][354]LogTexture: Display: Building textures: M4AI_Icon (BGRA8, 106X36)
+[2019.06.21-00.04.15:863][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Minimap_Arrow.png)
+[2019.06.21-00.04.15:866][354]LogTexture: Display: Building textures: Minimap_Arrow (BGRA8, 16X18)
+[2019.06.21-00.04.15:889][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Minimap_Border.png)
+[2019.06.21-00.04.15:892][354]LogTexture: Display: Building textures: Minimap_Border (BGRA8, 110X33)
+[2019.06.21-00.04.15:918][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\HUD_Export/Timer_Backing.png)
+[2019.06.21-00.04.15:921][354]LogTexture: Display: Building textures: Timer_Backing (BGRA8, 47X19)
+[2019.06.21-00.04.15:966][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/AK.obj)
+[2019.06.21-00.04.16:367][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Weapon/AK.obj
+[2019.06.21-00.04.16:660][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.04.22:111][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.21-00.04.24:889][354]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.24:889][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.25:130][354]LogPackageName: SearchForPackageOnDisk took   0.241s, but failed to resolve JW_FlameDungeon.
+[2019.06.21-00.04.25:131][354]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.06.21-00.04.25:204][354]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.25:204][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.25:433][354]LogPackageName: SearchForPackageOnDisk took   0.230s, but failed to resolve JW_FlameDungeon.
+[2019.06.21-00.04.25:433][354]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.06.21-00.04.31:734][354]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.31:734][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.31:914][354]LogPackageName: SearchForPackageOnDisk took   0.180s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2019.06.21-00.04.31:914][354]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2019.06.21-00.04.32:613][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.32:613][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.32:826][354]LogPackageName: SearchForPackageOnDisk took   0.213s, but failed to resolve JW_Ice_Mountain.
+[2019.06.21-00.04.32:826][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.06.21-00.04.33:288][354]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.33:288][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.33:478][354]LogPackageName: SearchForPackageOnDisk took   0.189s, but failed to resolve FX_Meshes.
+[2019.06.21-00.04.33:478][354]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.06.21-00.04.33:607][354]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.33:607][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.33:862][354]LogPackageName: SearchForPackageOnDisk took   0.254s, but failed to resolve FX_Meshes.
+[2019.06.21-00.04.33:862][354]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.06.21-00.04.34:132][354]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.34:132][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.34:335][354]LogPackageName: SearchForPackageOnDisk took   0.203s, but failed to resolve 'FX_Ambient.
+[2019.06.21-00.04.34:335][354]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2019.06.21-00.04.34:507][354]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.34:507][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.34:692][354]LogPackageName: SearchForPackageOnDisk took   0.185s, but failed to resolve CastleEffects.
+[2019.06.21-00.04.34:693][354]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2019.06.21-00.04.35:789][354]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.35:789][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.36:012][354]LogPackageName: SearchForPackageOnDisk took   0.222s, but failed to resolve StaticMesh'FX_Meshes.
+[2019.06.21-00.04.36:012][354]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2019.06.21-00.04.36:050][354]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.36:050][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.36:239][354]LogPackageName: SearchForPackageOnDisk took   0.190s to resolve m_FogSheet_02.
+[2019.06.21-00.04.36:798][354]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.36:798][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.36:985][354]LogPackageName: SearchForPackageOnDisk took   0.187s, but failed to resolve FX_Test_LAN.
+[2019.06.21-00.04.36:985][354]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2019.06.21-00.04.38:759][354]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.38:759][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.39:001][354]LogPackageName: SearchForPackageOnDisk took   0.243s to resolve m_FogSheet_02.
+[2019.06.21-00.04.39:040][354]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.39:040][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.39:215][354]LogPackageName: SearchForPackageOnDisk took   0.176s to resolve m_FogSheet_02.
+[2019.06.21-00.04.39:255][354]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.04.39:255][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.04.39:460][354]LogPackageName: SearchForPackageOnDisk took   0.205s to resolve m_FogSheet_02.
+[2019.06.21-00.05.42:114][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.05.42:114][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.05.42:317][354]LogPackageName: SearchForPackageOnDisk took   0.203s, but failed to resolve JW_Ice_Mountain.
+[2019.06.21-00.05.42:317][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.06.21-00.05.42:478][354]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.05.42:479][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.05.42:678][354]LogPackageName: SearchForPackageOnDisk took   0.199s to resolve S_Survival_CA_Chicken_02.
+[2019.06.21-00.05.44:968][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.05.44:968][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.05.45:188][354]LogPackageName: SearchForPackageOnDisk took   0.220s, but failed to resolve JW_Ice_Mountain.
+[2019.06.21-00.05.45:188][354]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.06.21-00.05.45:417][354]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.06.21-00.05.45:417][354]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.06.21-00.05.45:624][354]LogPackageName: SearchForPackageOnDisk took   0.207s, but failed to resolve Env_ALL_Artifacts.
+[2019.06.21-00.05.45:624][354]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.06.21-00.06.05:374][354]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2019.06.21-00.06.06:183][354]LogFbx: Display: Triangulating static mesh AK
+[2019.06.21-00.06.07:717][354]LogStaticMesh: Building static mesh AK...
+[2019.06.21-00.06.08:095][354]LogStaticMesh: Built static mesh [0.38s] /Game/Weapon/AK.AK
+[2019.06.21-00.06.09:358][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/AK_diffuse.jpg)
+[2019.06.21-00.06.09:662][354]LogTexture: Display: Building textures: AK_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.06.18:808][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/AK_normal.jpg)
+[2019.06.21-00.06.19:351][354]LogTexture: Display: Building textures: AK_normal (BC5, 2048X2048)
+[2019.06.21-00.06.20:580][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/AK_specular.jpg)
+[2019.06.21-00.06.20:644][354]LogTexture: Display: Building textures: AK_specular (AutoDXT, 2048X2048)
+[2019.06.21-00.06.21:441][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/M4A1.fbx)
+[2019.06.21-00.06.21:587][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Weapon/M4A1.fbx
+[2019.06.21-00.06.21:949][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.06.24:702][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.21-00.06.24:911][354]LogMaterial: Display: Missing cached shader map for material silencer001Mat, compiling. 
+[2019.06.21-00.06.24:950][354]LogFbx: Display: Triangulating static mesh silencer001
+[2019.06.21-00.06.25:070][354]LogStaticMesh: Building static mesh M4A1_silencer001...
+[2019.06.21-00.06.25:089][354]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon/M4A1_silencer001.M4A1_silencer001
+[2019.06.21-00.06.25:248][354]LogMaterial: Display: Missing cached shader map for material weapon002Mat, compiling. 
+[2019.06.21-00.06.25:286][354]LogFbx: Display: Triangulating static mesh weapon002
+[2019.06.21-00.06.27:061][354]LogStaticMesh: Building static mesh M4A1_weapon002...
+[2019.06.21-00.06.28:472][354]LogStaticMesh: Built static mesh [1.41s] /Game/Weapon/M4A1_weapon002.M4A1_weapon002
+[2019.06.21-00.06.28:569][354]LogStaticMesh: Warning: M4A1_weapon002 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.06.21-00.06.28:569][354]LogStaticMesh: Warning: M4A1_weapon002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.21-00.06.28:750][354]FBXImport: Warning: M4A1_weapon002 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2019.06.21-00.06.28:750][354]FBXImport: Warning: M4A1_weapon002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.21-00.06.29:083][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Weapon/M4A1_Diffuse.png)
+[2019.06.21-00.06.29:465][354]LogTexture: Display: Building textures: M4A1_Diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.06.38:796][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie Attack.fbx)
+[2019.06.21-00.06.38:821][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Zombie/Zombie Attack.fbx
+[2019.06.21-00.06.39:426][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.06.39:732][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.06.39:732][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.06.42:334][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.06.42:338][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Zombie/Zombie Attack.fbx'. Failed to create asset '/Game/Zombie/Zombie_Attack'.
+Please see Output Log for details.
+[2019.06.21-00.06.42:688][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie Idle.fbx)
+[2019.06.21-00.06.42:719][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Zombie/Zombie Idle.fbx
+[2019.06.21-00.06.42:760][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.06.42:773][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.06.42:773][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.06.43:962][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.06.43:966][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Zombie/Zombie Idle.fbx'. Failed to create asset '/Game/Zombie/Zombie_Idle'.
+Please see Output Log for details.
+[2019.06.21-00.06.44:249][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie Running.fbx)
+[2019.06.21-00.06.44:283][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Zombie/Zombie Running.fbx
+[2019.06.21-00.06.44:335][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.06.44:352][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.06.44:353][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.06.45:827][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.06.45:831][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Zombie/Zombie Running.fbx'. Failed to create asset '/Game/Zombie/Zombie_Running'.
+Please see Output Log for details.
+[2019.06.21-00.06.46:056][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie Walking.fbx)
+[2019.06.21-00.06.46:090][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Zombie/Zombie Walking.fbx
+[2019.06.21-00.06.46:152][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.06.46:165][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.06.46:165][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.06.49:866][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.06.49:870][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Zombie/Zombie Walking.fbx'. Failed to create asset '/Game/Zombie/Zombie_Walking'.
+Please see Output Log for details.
+[2019.06.21-00.06.50:690][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie_Character.fbm/FuzZombie__diffuse.png)
+[2019.06.21-00.06.50:963][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.06.59:602][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie_Character.fbm/FuzZombie__normal.png)
+[2019.06.21-00.06.59:848][354]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2019.06.21-00.07.00:939][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie_Character.fbm/FuzZombie__specular.png)
+[2019.06.21-00.07.01:178][354]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2019.06.21-00.07.08:863][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Zombie/Zombie_Character.fbx)
+[2019.06.21-00.07.08:965][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Zombie/Zombie_Character.fbx
+[2019.06.21-00.07.09:323][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.07.09:390][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__diffuse'
+[2019.06.21-00.07.09:391][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__diffuse'
+[2019.06.21-00.07.09:650][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.07.17:886][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__specular'
+[2019.06.21-00.07.17:887][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__specular'
+[2019.06.21-00.07.18:087][354]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2019.06.21-00.07.25:605][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__normal'
+[2019.06.21-00.07.25:605][354]LogLinker: Can't find file '/Game/Zombie/FuzZombie__normal'
+[2019.06.21-00.07.25:813][354]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2019.06.21-00.07.26:990][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.07.35:184][354]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2019.06.21-00.07.35:447][354]LogStaticMesh: Building static mesh Zombie_Character_Glass...
+[2019.06.21-00.07.35:483][354]LogStaticMesh: Built static mesh [0.04s] /Game/Zombie/Zombie_Character_Glass.Zombie_Character_Glass
+[2019.06.21-00.07.35:753][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.07.46:823][354]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2019.06.21-00.07.54:865][354]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2019.06.21-00.07.55:179][354]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2019.06.21-00.07.55:989][354]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2019.06.21-00.07.56:271][354]LogStaticMesh: Building static mesh Zombie_Character_FuzZombie...
+[2019.06.21-00.07.56:702][354]LogStaticMesh: Built static mesh [0.43s] /Game/Zombie/Zombie_Character_FuzZombie.Zombie_Character_FuzZombie
+[2019.06.21-00.07.57:255][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.08.07:020][354]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2019.06.21-00.08.14:337][354]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2019.06.21-00.08.14:532][354]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2019.06.21-00.08.15:455][354]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.08.23:727][354]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2019.06.21-00.08.23:789][354]LogStaticMesh: Building static mesh Zombie_Character_Hair...
+[2019.06.21-00.08.23:843][354]LogStaticMesh: Built static mesh [0.06s] /Game/Zombie/Zombie_Character_Hair.Zombie_Character_Hair
+[2019.06.21-00.08.24:021][354]LogStaticMesh: Building static mesh Zombie_Character_Eyes...
+[2019.06.21-00.08.24:029][354]LogStaticMesh: Built static mesh [0.01s] /Game/Zombie/Zombie_Character_Eyes.Zombie_Character_Eyes
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'glass_hair_M' was rename 'glass_hair_M_ncl1_1' 
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 8 UV Channels 
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 6 UV Channels 
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 8 UV Channels 
+[2019.06.21-00.08.24:214][354]FBXImport: Warning: Reached the maximum number of UV Channels for a Static Mesh(8) - discarding 6 UV Channels 
+[2019.06.21-00.08.24:302][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\DynamicCrossHair.uasset'. Unknown extension 'uasset'.
+[2019.06.21-00.08.24:957][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\FPSHUD.psd)
+[2019.06.21-00.08.25:670][354]LogTexture: Display: Building textures: FPSHUD (AutoDXT, 1920X1080)
+[2019.06.21-00.08.27:021][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\RedVignette.png)
+[2019.06.21-00.08.27:087][354]LogTexture: Display: Building textures: RedVignette (AutoDXT, 960X540)
+[2019.06.21-00.08.28:469][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_left.fbx)
+[2019.06.21-00.08.28:493][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_left.fbx
+[2019.06.21-00.08.28:566][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.28:587][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.28:587][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.32:916][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.32:920][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_left.fbx'. Failed to create asset '/Game/Character/Animation/crouching_turn_90_left'.
+Please see Output Log for details.
+[2019.06.21-00.08.33:052][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_right.fbx)
+[2019.06.21-00.08.33:071][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_right.fbx
+[2019.06.21-00.08.33:121][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.33:139][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.33:139][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.34:097][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.34:101][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/crouching_turn_90_right.fbx'. Failed to create asset '/Game/Character/Animation/crouching_turn_90_right'.
+Please see Output Log for details.
+[2019.06.21-00.08.34:260][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_crouching_headshot_front.fbx)
+[2019.06.21-00.08.34:292][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_crouching_headshot_front.fbx
+[2019.06.21-00.08.34:375][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.34:402][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.34:403][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.34:933][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.34:937][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_crouching_headshot_front.fbx'. Failed to create asset '/Game/Character/Animation/death_crouching_headshot_front'.
+Please see Output Log for details.
+[2019.06.21-00.08.35:085][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_from_back_headshot.fbx)
+[2019.06.21-00.08.35:121][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_from_back_headshot.fbx
+[2019.06.21-00.08.35:209][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.35:240][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.35:240][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.35:734][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.35:738][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_from_back_headshot.fbx'. Failed to create asset '/Game/Character/Animation/death_from_back_headshot'.
+Please see Output Log for details.
+[2019.06.21-00.08.35:854][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_from_front_headshot.fbx)
+[2019.06.21-00.08.35:886][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_from_front_headshot.fbx
+[2019.06.21-00.08.35:933][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.35:947][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.35:947][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.36:447][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.36:452][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_from_front_headshot.fbx'. Failed to create asset '/Game/Character/Animation/death_from_front_headshot'.
+Please see Output Log for details.
+[2019.06.21-00.08.36:692][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_from_right.fbx)
+[2019.06.21-00.08.36:728][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_from_right.fbx
+[2019.06.21-00.08.36:778][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.36:792][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.36:793][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.37:324][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.37:328][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_from_right.fbx'. Failed to create asset '/Game/Character/Animation/death_from_right'.
+Please see Output Log for details.
+[2019.06.21-00.08.37:533][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_back.fbx)
+[2019.06.21-00.08.37:561][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_back.fbx
+[2019.06.21-00.08.37:613][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.37:626][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.37:626][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.38:142][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.38:147][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_back.fbx'. Failed to create asset '/Game/Character/Animation/death_from_the_back'.
+Please see Output Log for details.
+[2019.06.21-00.08.38:254][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_front.fbx)
+[2019.06.21-00.08.38:280][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_front.fbx
+[2019.06.21-00.08.38:323][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.38:337][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.38:337][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.38:885][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.38:889][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/death_from_the_front.fbx'. Failed to create asset '/Game/Character/Animation/death_from_the_front'.
+Please see Output Log for details.
+[2019.06.21-00.08.39:001][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/idle.fbx)
+[2019.06.21-00.08.39:021][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/idle.fbx
+[2019.06.21-00.08.39:068][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.39:081][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.39:081][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.41:093][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.41:098][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/idle.fbx'. Failed to create asset '/Game/Character/Animation/idle'.
+Please see Output Log for details.
+[2019.06.21-00.08.41:264][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/idle_aiming.fbx)
+[2019.06.21-00.08.41:297][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/idle_aiming.fbx
+[2019.06.21-00.08.41:361][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.41:378][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.41:378][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.42:535][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.42:539][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/idle_aiming.fbx'. Failed to create asset '/Game/Character/Animation/idle_aiming'.
+Please see Output Log for details.
+[2019.06.21-00.08.42:687][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching.fbx)
+[2019.06.21-00.08.42:721][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching.fbx
+[2019.06.21-00.08.42:777][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.42:792][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.42:792][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.43:297][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.43:301][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching.fbx'. Failed to create asset '/Game/Character/Animation/idle_crouching'.
+Please see Output Log for details.
+[2019.06.21-00.08.43:506][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching_aiming.fbx)
+[2019.06.21-00.08.43:542][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching_aiming.fbx
+[2019.06.21-00.08.43:589][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.43:601][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.43:601][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.44:082][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.44:086][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/idle_crouching_aiming.fbx'. Failed to create asset '/Game/Character/Animation/idle_crouching_aiming'.
+Please see Output Log for details.
+[2019.06.21-00.08.44:187][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/jump_down.fbx)
+[2019.06.21-00.08.44:218][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/jump_down.fbx
+[2019.06.21-00.08.44:302][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.44:327][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.44:327][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.44:806][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.44:810][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/jump_down.fbx'. Failed to create asset '/Game/Character/Animation/jump_down'.
+Please see Output Log for details.
+[2019.06.21-00.08.44:893][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/jump_loop.fbx)
+[2019.06.21-00.08.44:924][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/jump_loop.fbx
+[2019.06.21-00.08.44:975][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.44:990][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.44:990][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.45:437][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.45:441][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/jump_loop.fbx'. Failed to create asset '/Game/Character/Animation/jump_loop'.
+Please see Output Log for details.
+[2019.06.21-00.08.45:608][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/jump_up.fbx)
+[2019.06.21-00.08.45:642][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/jump_up.fbx
+[2019.06.21-00.08.45:718][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.45:731][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.45:731][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.46:199][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.46:203][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/jump_up.fbx'. Failed to create asset '/Game/Character/Animation/jump_up'.
+Please see Output Log for details.
+[2019.06.21-00.08.46:376][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/reloading_inPlace.fbx)
+[2019.06.21-00.08.46:409][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/reloading_inPlace.fbx
+[2019.06.21-00.08.46:495][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.46:526][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.46:526][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.46:850][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.46:855][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/reloading_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/reloading_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.46:971][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_inPlace.fbx)
+[2019.06.21-00.08.47:003][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_inPlace.fbx
+[2019.06.21-00.08.47:079][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.47:094][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.47:095][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.47:565][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.47:570][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_backward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.47:738][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_left_inPlace.fbx)
+[2019.06.21-00.08.47:769][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_left_inPlace.fbx
+[2019.06.21-00.08.47:817][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.47:830][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.47:830][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.48:211][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.48:215][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_backward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.48:296][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_right_inPlace.fbx)
+[2019.06.21-00.08.48:327][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_right_inPlace.fbx
+[2019.06.21-00.08.48:376][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.48:390][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.48:390][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.48:822][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.48:826][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_backward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_backward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.48:962][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_inPlace.fbx)
+[2019.06.21-00.08.48:994][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_inPlace.fbx
+[2019.06.21-00.08.49:079][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.49:104][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.49:104][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.49:425][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.49:430][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_forward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.49:555][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_left_inPlace.fbx)
+[2019.06.21-00.08.49:587][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_left_inPlace.fbx
+[2019.06.21-00.08.49:673][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.49:699][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.49:699][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.50:032][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.50:037][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_forward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.50:226][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_right_inPlace.fbx)
+[2019.06.21-00.08.50:269][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_right_inPlace.fbx
+[2019.06.21-00.08.50:308][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.50:319][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.50:319][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.50:633][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.50:638][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_forward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_forward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.50:761][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_left_inPlace.fbx)
+[2019.06.21-00.08.50:790][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_left_inPlace.fbx
+[2019.06.21-00.08.50:833][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.50:845][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.50:845][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.51:258][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.51:262][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.51:439][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/run_right_inPlace.fbx)
+[2019.06.21-00.08.51:472][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/run_right_inPlace.fbx
+[2019.06.21-00.08.51:515][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.51:526][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.51:526][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.51:837][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.51:841][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/run_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/run_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.51:946][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_inPlace.fbx)
+[2019.06.21-00.08.51:978][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_inPlace.fbx
+[2019.06.21-00.08.52:022][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.52:034][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.52:034][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.52:380][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.52:385][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_backward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.52:479][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_left_inPlace.fbx)
+[2019.06.21-00.08.52:509][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_left_inPlace.fbx
+[2019.06.21-00.08.52:555][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.52:567][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.52:567][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.52:912][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.52:916][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_backward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.53:064][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_right_inPlace.fbx)
+[2019.06.21-00.08.53:097][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_right_inPlace.fbx
+[2019.06.21-00.08.53:158][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.53:169][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.53:169][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.53:394][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.53:398][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_backward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_backward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.53:557][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_inPlace.fbx)
+[2019.06.21-00.08.53:579][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_inPlace.fbx
+[2019.06.21-00.08.53:624][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.53:635][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.53:635][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.53:911][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.53:916][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_forward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.54:071][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_left_inPlace.fbx)
+[2019.06.21-00.08.54:102][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_left_inPlace.fbx
+[2019.06.21-00.08.54:185][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.54:206][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.54:207][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.54:471][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.54:476][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_forward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.54:616][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_right_inPlace.fbx)
+[2019.06.21-00.08.54:648][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_right_inPlace.fbx
+[2019.06.21-00.08.54:711][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.54:723][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.54:723][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.55:052][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.55:057][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_forward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_forward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.55:255][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_left_inPlace.fbx)
+[2019.06.21-00.08.55:291][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_left_inPlace.fbx
+[2019.06.21-00.08.55:374][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.55:402][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.55:402][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.55:647][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.55:651][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.55:829][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/sprint_right_inPlace.fbx)
+[2019.06.21-00.08.55:861][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/sprint_right_inPlace.fbx
+[2019.06.21-00.08.55:941][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.55:957][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.55:958][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.56:289][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.56:294][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/sprint_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/sprint_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.56:429][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_left.fbx)
+[2019.06.21-00.08.56:457][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_left.fbx
+[2019.06.21-00.08.56:498][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.56:511][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.56:511][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.56:958][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.56:963][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_left.fbx'. Failed to create asset '/Game/Character/Animation/turn_90_left'.
+Please see Output Log for details.
+[2019.06.21-00.08.57:084][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_right.fbx)
+[2019.06.21-00.08.57:115][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_right.fbx
+[2019.06.21-00.08.57:188][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.57:202][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.57:202][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.57:600][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.57:604][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/turn_90_right.fbx'. Failed to create asset '/Game/Character/Animation/turn_90_right'.
+Please see Output Log for details.
+[2019.06.21-00.08.57:776][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_inPlace.fbx)
+[2019.06.21-00.08.57:802][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_inPlace.fbx
+[2019.06.21-00.08.57:842][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.57:854][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.57:854][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.58:227][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.58:231][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_backward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.58:374][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_left_inPlace.fbx)
+[2019.06.21-00.08.58:409][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_left_inPlace.fbx
+[2019.06.21-00.08.58:451][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.58:463][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.58:463][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.59:240][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.59:245][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_backward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.08.59:343][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_right_inPlace.fbx)
+[2019.06.21-00.08.59:378][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_right_inPlace.fbx
+[2019.06.21-00.08.59:430][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.08.59:445][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.08.59:445][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.08.59:899][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.08.59:904][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_backward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_backward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.00:077][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_inPlace.fbx)
+[2019.06.21-00.09.00:096][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_inPlace.fbx
+[2019.06.21-00.09.00:148][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.00:165][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.00:165][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.00:445][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.00:450][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_backward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.00:539][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_left_inPlace.fbx)
+[2019.06.21-00.09.00:566][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_left_inPlace.fbx
+[2019.06.21-00.09.00:604][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.00:617][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.00:617][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.00:976][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.00:980][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_backward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.01:123][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_right_inPlace.fbx)
+[2019.06.21-00.09.01:154][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_right_inPlace.fbx
+[2019.06.21-00.09.01:219][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.01:232][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.01:232][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.01:529][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.01:533][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_backward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_backward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.01:654][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_inPlace.fbx)
+[2019.06.21-00.09.01:687][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_inPlace.fbx
+[2019.06.21-00.09.01:749][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.01:760][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.01:760][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.02:088][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.02:093][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_forward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.02:185][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_left_inPlace.fbx)
+[2019.06.21-00.09.02:217][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_left_inPlace.fbx
+[2019.06.21-00.09.02:271][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.02:287][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.02:287][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.02:669][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.02:673][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_forward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.02:825][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_right_inPlace.fbx)
+[2019.06.21-00.09.02:857][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_right_inPlace.fbx
+[2019.06.21-00.09.02:939][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.02:965][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.02:965][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.03:236][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.03:241][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_forward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_forward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.03:348][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_left_inPlace.fbx)
+[2019.06.21-00.09.03:380][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_left_inPlace.fbx
+[2019.06.21-00.09.03:435][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.03:447][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.03:447][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.03:772][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.03:777][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.03:819][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_right_inPlace.fbx)
+[2019.06.21-00.09.03:834][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_right_inPlace.fbx
+[2019.06.21-00.09.03:872][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.03:884][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.03:884][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.04:330][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.04:335][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_crouching_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_crouching_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.04:475][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_inPlace.fbx)
+[2019.06.21-00.09.04:507][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_inPlace.fbx
+[2019.06.21-00.09.04:556][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.04:568][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.04:568][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.05:085][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.05:090][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_forward_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.05:124][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_left_inPlace.fbx)
+[2019.06.21-00.09.05:139][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_left_inPlace.fbx
+[2019.06.21-00.09.05:176][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.05:189][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.05:189][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.05:637][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.05:642][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_forward_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.05:748][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_right_inPlace.fbx)
+[2019.06.21-00.09.05:783][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_right_inPlace.fbx
+[2019.06.21-00.09.05:829][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.05:841][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.05:841][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.06:170][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.06:175][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_forward_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_forward_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.06:266][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_left_inPlace.fbx)
+[2019.06.21-00.09.06:281][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_left_inPlace.fbx
+[2019.06.21-00.09.06:319][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.06:332][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.06:332][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.06:708][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.06:713][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_left_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_left_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.06:749][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Animation/walk_right_inPlace.fbx)
+[2019.06.21-00.09.06:763][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Animation/walk_right_inPlace.fbx
+[2019.06.21-00.09.06:801][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.06:813][354]FBXImport: Error: Could not find any node. 
+[2019.06.21-00.09.06:813][354]FBXImport: Error: Import failed. 
+[2019.06.21-00.09.07:226][354]LogSlate: Window 'Message' being destroyed
+[2019.06.21-00.09.07:230][354]LogAssetTools: Warning: Failed to import 'C:\Users\tom\Desktop\Fps\Character/Animation/walk_right_inPlace.fbx'. Failed to create asset '/Game/Character/Animation/walk_right_inPlace'.
+Please see Output Log for details.
+[2019.06.21-00.09.07:351][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Blendspace Graph 1.jpg)
+[2019.06.21-00.09.07:447][354]LogTexture: Display: Building textures: Blendspace_Graph_1 (AutoDXT, 1920X1080)
+[2019.06.21-00.09.07:723][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Blendspace Graph 1.psd)
+[2019.06.21-00.09.07:747][354]LogTexture: Display: Building textures: Blendspace_Graph_0 (AutoDXT, 1920X1080)
+[2019.06.21-00.09.08:119][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_Body_diffuse.png)
+[2019.06.21-00.09.08:306][354]LogTexture: Display: Building textures: Soldier_Body_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.09.14:944][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_Body_normal.png)
+[2019.06.21-00.09.15:138][354]LogTexture: Display: Building textures: Soldier_Body_normal (BC5, 2048X2048)
+[2019.06.21-00.09.16:043][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_Body_specular.png)
+[2019.06.21-00.09.16:131][354]LogTexture: Display: Building textures: Soldier_Body_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.09.17:907][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_head_diffuse.png)
+[2019.06.21-00.09.18:088][354]LogTexture: Display: Building textures: Soldier_head_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.09.23:900][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_head_normal.png)
+[2019.06.21-00.09.24:066][354]LogTexture: Display: Building textures: Soldier_head_normal (BC5, 2048X2048)
+[2019.06.21-00.09.24:955][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbm/Soldier_head_specular.png)
+[2019.06.21-00.09.25:038][354]LogTexture: Display: Building textures: Soldier_head_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.09.27:356][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbx)
+[2019.06.21-00.09.27:527][354]LogFbx: Loading FBX Scene from C:\Users\tom\Desktop\Fps\Character/Mesh/Swat.fbx
+[2019.06.21-00.09.28:298][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.21-00.09.28:317][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_diffuse'
+[2019.06.21-00.09.28:318][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_diffuse'
+[2019.06.21-00.09.28:640][354]LogTexture: Display: Building textures: Soldier_Body_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.09.35:149][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_specular'
+[2019.06.21-00.09.35:150][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_specular'
+[2019.06.21-00.09.35:200][354]LogTexture: Display: Building textures: Soldier_Body_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.09.36:798][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_normal'
+[2019.06.21-00.09.36:799][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_Body_normal'
+[2019.06.21-00.09.36:984][354]LogTexture: Display: Building textures: Soldier_Body_normal (BC5, 2048X2048)
+[2019.06.21-00.09.37:822][354]LogMaterial: Display: Missing cached shader map for material Soldier_body1, compiling. 
+[2019.06.21-00.09.37:856][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_diffuse'
+[2019.06.21-00.09.37:857][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_diffuse'
+[2019.06.21-00.09.38:006][354]LogTexture: Display: Building textures: Soldier_head_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.09.45:487][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_specular'
+[2019.06.21-00.09.45:488][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_specular'
+[2019.06.21-00.09.45:544][354]LogTexture: Display: Building textures: Soldier_head_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.09.47:365][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_normal'
+[2019.06.21-00.09.47:366][354]LogLinker: Can't find file '/Game/Character/Mesh/Soldier_head_normal'
+[2019.06.21-00.09.47:590][354]LogTexture: Display: Building textures: Soldier_head_normal (BC5, 2048X2048)
+[2019.06.21-00.09.48:301][354]LogMaterial: Display: Missing cached shader map for material Soldier_head6, compiling. 
+[2019.06.21-00.09.48:320][354]LogFbx: Display: Triangulating static mesh Soldier_head
+[2019.06.21-00.09.49:854][354]LogStaticMesh: Building static mesh Swat_Soldier_head...
+[2019.06.21-00.09.50:118][354]LogStaticMesh: Built static mesh [0.26s] /Game/Character/Mesh/Swat_Soldier_head.Swat_Soldier_head
+[2019.06.21-00.09.50:287][354]LogFbx: Display: Triangulating static mesh Soldier_body
+[2019.06.21-00.09.51:372][354]LogStaticMesh: Building static mesh Swat_Soldier_body...
+[2019.06.21-00.09.51:795][354]LogStaticMesh: Built static mesh [0.42s] /Game/Character/Mesh/Swat_Soldier_body.Swat_Soldier_body
+[2019.06.21-00.09.52:042][354]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.21-00.09.52:293][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_Body_diffuse.png)
+[2019.06.21-00.09.52:518][354]LogTexture: Display: Building textures: Soldier_Body_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.09.59:819][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_Body_normal.png)
+[2019.06.21-00.10.00:001][354]LogTexture: Display: Building textures: Soldier_Body_normal (BC5, 2048X2048)
+[2019.06.21-00.10.00:891][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_Body_specular.png)
+[2019.06.21-00.10.00:940][354]LogTexture: Display: Building textures: Soldier_Body_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.10.02:728][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_head_diffuse.png)
+[2019.06.21-00.10.02:891][354]LogTexture: Display: Building textures: Soldier_head_diffuse (AutoDXT, 2048X2048)
+[2019.06.21-00.10.09:172][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_head_normal.png)
+[2019.06.21-00.10.09:383][354]LogTexture: Display: Building textures: Soldier_head_normal (BC5, 2048X2048)
+[2019.06.21-00.10.10:186][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tom\Desktop\Fps\Character/Textures/Swat.fbm/Soldier_head_specular.png)
+[2019.06.21-00.10.10:247][354]LogTexture: Display: Building textures: Soldier_head_specular (AutoDXT, 1024X1024)
+[2019.06.21-00.10.12:528][355]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.21-00.10.12:528][355]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.21-00.10.12:529][355]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.21-00.10.12:529][355]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.21-00.10.12:529][355]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.21-00.10.15:702][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.06.21-00.10.15:702][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2019.06.21-00.10.15:715][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/AK-47_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.15:719][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/AK-47_Icon.AK-47_Icon]
+[2019.06.21-00.10.15:720][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/AK-47_Icon]
+[2019.06.21-00.10.15:731][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK-47_Icon_Auto16B7E5ED6428ED84624FFDFB1E0C2485B.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/AK-47_Icon_Auto1.uasset'
+[2019.06.21-00.10.15:732][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Armor_Border] ([1] browsable assets)...
+[2019.06.21-00.10.15:734][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Armor_Border.Armor_Border]
+[2019.06.21-00.10.15:734][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Armor_Border]
+[2019.06.21-00.10.15:744][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Armor_Border_Auto13FCE5CCB42B4AEDF7F790AAF47CF721F.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Armor_Border_Auto1.uasset'
+[2019.06.21-00.10.15:745][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Armor_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.15:746][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Armor_Icon.Armor_Icon]
+[2019.06.21-00.10.15:746][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Armor_Icon]
+[2019.06.21-00.10.15:770][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Armor_Icon_Auto1D8D96CC34ADB57C0C06B2BBAC6C1746B.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Armor_Icon_Auto1.uasset'
+[2019.06.21-00.10.15:777][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Bar_Fill] ([1] browsable assets)...
+[2019.06.21-00.10.15:779][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Bar_Fill.Bar_Fill]
+[2019.06.21-00.10.15:779][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Bar_Fill]
+[2019.06.21-00.10.15:791][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Bar_Fill_Auto14D8F30FA4B7C656E05E12E92262E24F1.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Bar_Fill_Auto1.uasset'
+[2019.06.21-00.10.15:792][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Bar_NoFill] ([1] browsable assets)...
+[2019.06.21-00.10.15:794][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Bar_NoFill.Bar_NoFill]
+[2019.06.21-00.10.15:794][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Bar_NoFill]
+[2019.06.21-00.10.15:980][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Bar_NoFill_Auto18B62F631457273380FC0288683D5100E.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Bar_NoFill_Auto1.uasset'
+[2019.06.21-00.10.15:983][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Grenade1_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.15:986][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Grenade1_Icon.Grenade1_Icon]
+[2019.06.21-00.10.15:986][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Grenade1_Icon]
+[2019.06.21-00.10.16:009][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Grenade1_Icon_Auto15DF299CA4E536736F636E69AA270F597.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Grenade1_Icon_Auto1.uasset'
+[2019.06.21-00.10.16:012][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Grenade2_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.16:013][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Grenade2_Icon.Grenade2_Icon]
+[2019.06.21-00.10.16:013][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Grenade2_Icon]
+[2019.06.21-00.10.16:026][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Grenade2_Icon_Auto181063A4C447740AE8B215F824B343AA0.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Grenade2_Icon_Auto1.uasset'
+[2019.06.21-00.10.16:028][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Health_Border] ([1] browsable assets)...
+[2019.06.21-00.10.16:029][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Health_Border.Health_Border]
+[2019.06.21-00.10.16:029][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Health_Border]
+[2019.06.21-00.10.16:057][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Health_Border_Auto1B23E56104F4E78D77EA612ACA3E3ECFD.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Health_Border_Auto1.uasset'
+[2019.06.21-00.10.16:059][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Health_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.16:060][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Health_Icon.Health_Icon]
+[2019.06.21-00.10.16:060][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Health_Icon]
+[2019.06.21-00.10.16:073][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Health_Icon_Auto1871C434A4156CA26068D91BEB18D3B54.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Health_Icon_Auto1.uasset'
+[2019.06.21-00.10.16:075][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/HitMarker] ([1] browsable assets)...
+[2019.06.21-00.10.16:077][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/HitMarker.HitMarker]
+[2019.06.21-00.10.16:077][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/HitMarker]
+[2019.06.21-00.10.16:089][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/HitMarker_Auto1168CD363488DFCA691E4DDADC5104754.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/HitMarker_Auto1.uasset'
+[2019.06.21-00.10.16:091][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Killfeed_Back] ([1] browsable assets)...
+[2019.06.21-00.10.16:093][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Killfeed_Back.Killfeed_Back]
+[2019.06.21-00.10.16:093][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Killfeed_Back]
+[2019.06.21-00.10.16:105][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Killfeed_Back_Auto1E04DC11F4D282F4000A18C8B4D737F16.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Killfeed_Back_Auto1.uasset'
+[2019.06.21-00.10.16:107][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Killfeed_Border] ([1] browsable assets)...
+[2019.06.21-00.10.16:109][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Killfeed_Border.Killfeed_Border]
+[2019.06.21-00.10.16:110][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Killfeed_Border]
+[2019.06.21-00.10.16:122][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Killfeed_Border_Auto12391F96A4DFA75FDBEE34EBD7546B77E.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Killfeed_Border_Auto1.uasset'
+[2019.06.21-00.10.16:124][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/M4AI_Icon] ([1] browsable assets)...
+[2019.06.21-00.10.16:127][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/M4AI_Icon.M4AI_Icon]
+[2019.06.21-00.10.16:127][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/M4AI_Icon]
+[2019.06.21-00.10.16:140][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/M4AI_Icon_Auto15E54ABD14558AE5CE364948D10A521D1.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/M4AI_Icon_Auto1.uasset'
+[2019.06.21-00.10.16:142][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Minimap_Arrow] ([1] browsable assets)...
+[2019.06.21-00.10.16:144][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Minimap_Arrow.Minimap_Arrow]
+[2019.06.21-00.10.16:144][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Minimap_Arrow]
+[2019.06.21-00.10.16:157][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Minimap_Arrow_Auto16208952745D9E7F7465C1B9FF5E6CD97.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Minimap_Arrow_Auto1.uasset'
+[2019.06.21-00.10.16:159][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Minimap_Border] ([1] browsable assets)...
+[2019.06.21-00.10.16:161][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Minimap_Border.Minimap_Border]
+[2019.06.21-00.10.16:161][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Minimap_Border]
+[2019.06.21-00.10.16:177][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Minimap_Border_Auto11AC6B2CB49B9E78DC363C1A299C63BE1.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Minimap_Border_Auto1.uasset'
+[2019.06.21-00.10.16:178][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Export/Timer_Backing] ([1] browsable assets)...
+[2019.06.21-00.10.16:180][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD_Export/Timer_Backing.Timer_Backing]
+[2019.06.21-00.10.16:180][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Export/Timer_Backing]
+[2019.06.21-00.10.16:212][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Timer_Backing_Auto164916069464D7D7D9AA0D886D7D8FB53.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/HUD_Export/Timer_Backing_Auto1.uasset'
+[2019.06.21-00.10.16:215][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/AK] ([1] browsable assets)...
+[2019.06.21-00.10.16:276][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Weapon/AK.AK]
+[2019.06.21-00.10.16:276][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/AK]
+[2019.06.21-00.10.16:412][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK_Auto1792119044173C565CC4223AFE1827C2B.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/AK_Auto1.uasset'
+[2019.06.21-00.10.16:414][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/AKMat] ([1] browsable assets)...
+[2019.06.21-00.10.16:530][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Weapon/AKMat.AKMat]
+[2019.06.21-00.10.16:530][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/AKMat]
+[2019.06.21-00.10.16:578][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AKMat_Auto1803E298B49A4DF5C0805C7A99CFD7F93.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/AKMat_Auto1.uasset'
+[2019.06.21-00.10.16:581][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/AK_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.16:609][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Weapon/AK_diffuse.AK_diffuse]
+[2019.06.21-00.10.16:610][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/AK_diffuse]
+[2019.06.21-00.10.16:638][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK_diffuse_Auto1E3870EBA414734395863D780AD04CBD3.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/AK_diffuse_Auto1.uasset'
+[2019.06.21-00.10.16:640][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/AK_normal] ([1] browsable assets)...
+[2019.06.21-00.10.16:654][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Weapon/AK_normal.AK_normal]
+[2019.06.21-00.10.16:654][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/AK_normal]
+[2019.06.21-00.10.16:748][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK_normal_Auto18DB38D0342644AF7E5A09B875DB4BC19.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/AK_normal_Auto1.uasset'
+[2019.06.21-00.10.16:750][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/AK_specular] ([1] browsable assets)...
+[2019.06.21-00.10.16:765][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Weapon/AK_specular.AK_specular]
+[2019.06.21-00.10.16:765][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/AK_specular]
+[2019.06.21-00.10.16:917][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK_specular_Auto1B7318A6C4C34FB1ECAD6A28E0F08681E.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/AK_specular_Auto1.uasset'
+[2019.06.21-00.10.16:934][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_head_specular] ([1] browsable assets)...
+[2019.06.21-00.10.16:948][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_head_specular.Soldier_head_specular]
+[2019.06.21-00.10.16:948][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_head_specular]
+[2019.06.21-00.10.16:983][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_specular_Auto177FCDF4A4C714914BE6C5E8B6A83BD84.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_head_specular_Auto1.uasset'
+[2019.06.21-00.10.16:985][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/M4A1_silencer001] ([1] browsable assets)...
+[2019.06.21-00.10.17:039][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Weapon/M4A1_silencer001.M4A1_silencer001]
+[2019.06.21-00.10.17:039][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/M4A1_silencer001]
+[2019.06.21-00.10.17:074][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/M4A1_silencer001_Auto1A8AEEF9F41916C86EC6057829AA8358C.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/M4A1_silencer001_Auto1.uasset'
+[2019.06.21-00.10.17:076][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/silencer001Mat] ([1] browsable assets)...
+[2019.06.21-00.10.17:144][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Weapon/silencer001Mat.silencer001Mat]
+[2019.06.21-00.10.17:144][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/silencer001Mat]
+[2019.06.21-00.10.17:248][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/silencer001Mat_Auto1FD971E1848013D7788F6798C18CF60D2.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/silencer001Mat_Auto1.uasset'
+[2019.06.21-00.10.17:250][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/M4A1_weapon002] ([1] browsable assets)...
+[2019.06.21-00.10.17:320][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Weapon/M4A1_weapon002.M4A1_weapon002]
+[2019.06.21-00.10.17:320][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/M4A1_weapon002]
+[2019.06.21-00.10.17:778][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/M4A1_weapon002_Auto170D0984D4CA09AEC3B9E3188C5F9E97A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/M4A1_weapon002_Auto1.uasset'
+[2019.06.21-00.10.17:779][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/weapon002Mat] ([1] browsable assets)...
+[2019.06.21-00.10.17:837][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Weapon/weapon002Mat.weapon002Mat]
+[2019.06.21-00.10.17:838][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/weapon002Mat]
+[2019.06.21-00.10.18:333][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/weapon002Mat_Auto13C884EB04748FBB1BE9599BFF6617674.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/weapon002Mat_Auto1.uasset'
+[2019.06.21-00.10.18:336][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/M4A1_Diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.18:361][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Weapon/M4A1_Diffuse.M4A1_Diffuse]
+[2019.06.21-00.10.18:361][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/M4A1_Diffuse]
+[2019.06.21-00.10.18:600][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/M4A1_Diffuse_Auto139172B7F41EBB739A09F14B76991EEB2.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Weapon/M4A1_Diffuse_Auto1.uasset'
+[2019.06.21-00.10.18:602][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_head_normal] ([1] browsable assets)...
+[2019.06.21-00.10.18:616][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_head_normal.Soldier_head_normal]
+[2019.06.21-00.10.18:616][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_head_normal]
+[2019.06.21-00.10.18:641][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_normal_Auto116565B8943DB86A9F3C1B6A3B97F4A4E.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_head_normal_Auto1.uasset'
+[2019.06.21-00.10.18:643][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_head_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.18:656][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_head_diffuse.Soldier_head_diffuse]
+[2019.06.21-00.10.18:656][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_head_diffuse]
+[2019.06.21-00.10.18:682][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_diffuse_Auto1F265ABCB471C9BB4174341B8E14279DD.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_head_diffuse_Auto1.uasset'
+[2019.06.21-00.10.18:699][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_Body_specular] ([1] browsable assets)...
+[2019.06.21-00.10.18:712][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_Body_specular.Soldier_Body_specular]
+[2019.06.21-00.10.18:712][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_Body_specular]
+[2019.06.21-00.10.18:808][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_specular_Auto137F1DD7A424DA3A10D31FF8D1B3B4B75.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_Body_specular_Auto1.uasset'
+[2019.06.21-00.10.18:810][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_Body_normal] ([1] browsable assets)...
+[2019.06.21-00.10.18:829][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_Body_normal.Soldier_Body_normal]
+[2019.06.21-00.10.18:829][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_Body_normal]
+[2019.06.21-00.10.19:030][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_normal_Auto1845BF59F43C1AD57D2A87F99E578613F.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_Body_normal_Auto1.uasset'
+[2019.06.21-00.10.19:843][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.19:878][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/Zombie_Character_fbm/FuzZombie__diffuse.FuzZombie__diffuse]
+[2019.06.21-00.10.19:878][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__diffuse]
+[2019.06.21-00.10.19:911][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__diffuse_Auto1EAA1CE88442DE7038FECC5AB9F202242.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_fbm/FuzZombie__diffuse_Auto1.uasset'
+[2019.06.21-00.10.19:912][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__normal] ([1] browsable assets)...
+[2019.06.21-00.10.19:927][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/Zombie_Character_fbm/FuzZombie__normal.FuzZombie__normal]
+[2019.06.21-00.10.19:927][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__normal]
+[2019.06.21-00.10.20:635][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__normal_Auto1AFB8366343336F64C7B78B99F83B0ABA.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_fbm/FuzZombie__normal_Auto1.uasset'
+[2019.06.21-00.10.20:637][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__specular] ([1] browsable assets)...
+[2019.06.21-00.10.20:653][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/Zombie_Character_fbm/FuzZombie__specular.FuzZombie__specular]
+[2019.06.21-00.10.20:653][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_fbm/FuzZombie__specular]
+[2019.06.21-00.10.21:427][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__specular_Auto1E6C3D012442FF2A7526967B769CF1FB0.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_fbm/FuzZombie__specular_Auto1.uasset'
+[2019.06.21-00.10.21:490][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Textures/Swat_fbm/Soldier_Body_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.21:517][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Textures/Swat_fbm/Soldier_Body_diffuse.Soldier_Body_diffuse]
+[2019.06.21-00.10.21:517][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Textures/Swat_fbm/Soldier_Body_diffuse]
+[2019.06.21-00.10.21:798][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_diffuse_Auto10E2FCD9549930220BDD6D7BEF11BDBDB.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Textures/Swat_fbm/Soldier_Body_diffuse_Auto1.uasset'
+[2019.06.21-00.10.21:802][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_Glass] ([1] browsable assets)...
+[2019.06.21-00.10.21:890][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Zombie/Zombie_Character_Glass.Zombie_Character_Glass]
+[2019.06.21-00.10.21:890][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_Glass]
+[2019.06.21-00.10.22:112][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Zombie_Character_Glass_Auto1483F044941BB21C35BAAB585EEBAB513.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_Glass_Auto1.uasset'
+[2019.06.21-00.10.22:116][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/glass_hair_M] ([1] browsable assets)...
+[2019.06.21-00.10.22:203][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Zombie/glass_hair_M.glass_hair_M]
+[2019.06.21-00.10.22:203][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/glass_hair_M]
+[2019.06.21-00.10.22:434][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/glass_hair_M_Auto1781C33EE4745755731A49EB8F78D78AA.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/glass_hair_M_Auto1.uasset'
+[2019.06.21-00.10.22:574][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/FuzZombie__diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.22:600][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/FuzZombie__diffuse.FuzZombie__diffuse]
+[2019.06.21-00.10.22:600][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/FuzZombie__diffuse]
+[2019.06.21-00.10.22:865][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__diffuse_Auto1C5FC11E64B174B754076028391D076D1.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/FuzZombie__diffuse_Auto1.uasset'
+[2019.06.21-00.10.22:868][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/FuzZombie__specular] ([1] browsable assets)...
+[2019.06.21-00.10.22:891][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/FuzZombie__specular.FuzZombie__specular]
+[2019.06.21-00.10.22:892][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/FuzZombie__specular]
+[2019.06.21-00.10.23:213][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__specular_Auto1D64CE0CA41EF57449BA2DB9A4B9C1E46.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/FuzZombie__specular_Auto1.uasset'
+[2019.06.21-00.10.23:215][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/FuzZombie__normal] ([1] browsable assets)...
+[2019.06.21-00.10.23:231][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Zombie/FuzZombie__normal.FuzZombie__normal]
+[2019.06.21-00.10.23:231][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/FuzZombie__normal]
+[2019.06.21-00.10.23:904][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FuzZombie__normal_Auto1A6A0CB954E0D33992AC7A8AD25288533.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/FuzZombie__normal_Auto1.uasset'
+[2019.06.21-00.10.23:907][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_FuzZombie] ([1] browsable assets)...
+[2019.06.21-00.10.23:994][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Zombie/Zombie_Character_FuzZombie.Zombie_Character_FuzZombie]
+[2019.06.21-00.10.23:994][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_FuzZombie]
+[2019.06.21-00.10.24:287][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Zombie_Character_FuzZombie_Auto1E1473718443601255F6481A1ED00D850.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_FuzZombie_Auto1.uasset'
+[2019.06.21-00.10.24:289][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/body_M] ([1] browsable assets)...
+[2019.06.21-00.10.24:363][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Zombie/body_M.body_M]
+[2019.06.21-00.10.24:363][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/body_M]
+[2019.06.21-00.10.24:404][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/body_M_Auto1F1E04B4B4F648BB5298CF2A8603AC613.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/body_M_Auto1.uasset'
+[2019.06.21-00.10.24:406][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_Hair] ([1] browsable assets)...
+[2019.06.21-00.10.24:485][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Zombie/Zombie_Character_Hair.Zombie_Character_Hair]
+[2019.06.21-00.10.24:486][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_Hair]
+[2019.06.21-00.10.24:681][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Zombie_Character_Hair_Auto1AC040E114F02062AEFE2469DA9BBBEF8.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_Hair_Auto1.uasset'
+[2019.06.21-00.10.24:683][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/glass_hair_M_ncl1_1] ([1] browsable assets)...
+[2019.06.21-00.10.24:762][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Zombie/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1]
+[2019.06.21-00.10.24:762][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/glass_hair_M_ncl1_1]
+[2019.06.21-00.10.24:809][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/glass_hair_M_ncl1_1_Auto1FED3B08D434B4DC501F75B9E27A389A9.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/glass_hair_M_ncl1_1_Auto1.uasset'
+[2019.06.21-00.10.24:810][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/Zombie_Character_Eyes] ([1] browsable assets)...
+[2019.06.21-00.10.24:891][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Zombie/Zombie_Character_Eyes.Zombie_Character_Eyes]
+[2019.06.21-00.10.24:892][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Zombie_Character_Eyes]
+[2019.06.21-00.10.24:949][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Zombie_Character_Eyes_Auto1C7A67F9A4CCC35D0EDA26D8FC0FDD9AA.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Zombie/Zombie_Character_Eyes_Auto1.uasset'
+[2019.06.21-00.10.24:952][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPSHUD] ([1] browsable assets)...
+[2019.06.21-00.10.24:971][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FPSHUD.FPSHUD]
+[2019.06.21-00.10.24:971][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPSHUD]
+[2019.06.21-00.10.24:973][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPSHUD" FILE="../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/FPSHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.21-00.10.25:002][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/FPSHUD_Auto1E08D080B44F3815DCCEE79B66684362C.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/FPSHUD_Auto1.uasset'
+[2019.06.21-00.10.25:168][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedVignette] ([1] browsable assets)...
+[2019.06.21-00.10.25:184][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RedVignette.RedVignette]
+[2019.06.21-00.10.25:185][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedVignette]
+[2019.06.21-00.10.25:634][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/RedVignette_Auto15E2A9C4848F4AB74090C20BAD848B93A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/RedVignette_Auto1.uasset'
+[2019.06.21-00.10.25:637][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_Soldier_body] ([1] browsable assets)...
+[2019.06.21-00.10.25:728][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Character/Mesh/Swat_Soldier_body.Swat_Soldier_body]
+[2019.06.21-00.10.25:728][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_Soldier_body]
+[2019.06.21-00.10.26:080][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Swat_Soldier_body_Auto15995BB6243D38EF274C09892926D6E0A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_Soldier_body_Auto1.uasset'
+[2019.06.21-00.10.26:082][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_head_normal] ([1] browsable assets)...
+[2019.06.21-00.10.26:096][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_head_normal.Soldier_head_normal]
+[2019.06.21-00.10.26:096][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_head_normal]
+[2019.06.21-00.10.26:125][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_normal_Auto105EBE262422E08A1A6F6DB9C283CD12F.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_head_normal_Auto1.uasset'
+[2019.06.21-00.10.26:126][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_head_specular] ([1] browsable assets)...
+[2019.06.21-00.10.26:139][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_head_specular.Soldier_head_specular]
+[2019.06.21-00.10.26:139][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_head_specular]
+[2019.06.21-00.10.26:240][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_specular_Auto19998B17949F51E3B1088419148F3E0F4.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_head_specular_Auto1.uasset'
+[2019.06.21-00.10.26:331][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_head_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.26:359][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_head_diffuse.Soldier_head_diffuse]
+[2019.06.21-00.10.26:359][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_head_diffuse]
+[2019.06.21-00.10.26:400][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_diffuse_Auto1CFC24C27423EB9330A5DBC88E94CAF3A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_head_diffuse_Auto1.uasset'
+[2019.06.21-00.10.26:402][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_head6] ([1] browsable assets)...
+[2019.06.21-00.10.26:483][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Mesh/Soldier_head6.Soldier_head6]
+[2019.06.21-00.10.26:483][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_head6]
+[2019.06.21-00.10.26:573][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head6_Auto1314D444E468AC03EE6ADCC8DFAC7A606.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_head6_Auto1.uasset'
+[2019.06.21-00.10.26:574][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_Body_normal] ([1] browsable assets)...
+[2019.06.21-00.10.26:589][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_Body_normal.Soldier_Body_normal]
+[2019.06.21-00.10.26:589][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_Body_normal]
+[2019.06.21-00.10.26:628][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_normal_Auto1EE34C2A6421B9BCD833092AF4DA03B4A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_Body_normal_Auto1.uasset'
+[2019.06.21-00.10.26:629][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_Body_specular] ([1] browsable assets)...
+[2019.06.21-00.10.26:642][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_Body_specular.Soldier_Body_specular]
+[2019.06.21-00.10.26:642][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_Body_specular]
+[2019.06.21-00.10.26:876][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_specular_Auto168749B62489E75FAD26DD2A6BD80AF40.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_Body_specular_Auto1.uasset'
+[2019.06.21-00.10.26:879][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_Body_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.26:905][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Soldier_Body_diffuse.Soldier_Body_diffuse]
+[2019.06.21-00.10.26:905][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_Body_diffuse]
+[2019.06.21-00.10.27:013][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_diffuse_Auto1535A65AF4899D86A5E9B218E1D0671D0.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_Body_diffuse_Auto1.uasset'
+[2019.06.21-00.10.27:017][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Soldier_body1] ([1] browsable assets)...
+[2019.06.21-00.10.27:086][392]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Mesh/Soldier_body1.Soldier_body1]
+[2019.06.21-00.10.27:086][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Soldier_body1]
+[2019.06.21-00.10.27:208][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_body1_Auto13CC16EFF4BE6F7281DF692ACFFAF523F.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Soldier_body1_Auto1.uasset'
+[2019.06.21-00.10.27:211][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_Soldier_head] ([1] browsable assets)...
+[2019.06.21-00.10.27:292][392]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Character/Mesh/Swat_Soldier_head.Swat_Soldier_head]
+[2019.06.21-00.10.27:293][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_Soldier_head]
+[2019.06.21-00.10.27:395][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Swat_Soldier_head_Auto115C4C08D4783EB343F6D5DBDABEAE63A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_Soldier_head_Auto1.uasset'
+[2019.06.21-00.10.27:618][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_head_specular] ([1] browsable assets)...
+[2019.06.21-00.10.27:648][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_head_specular.Soldier_head_specular]
+[2019.06.21-00.10.27:648][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_head_specular]
+[2019.06.21-00.10.27:671][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_specular_Auto1F4BC31FE40FA330DF636A3B058FAC15F.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_head_specular_Auto1.uasset'
+[2019.06.21-00.10.27:672][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_head_normal] ([1] browsable assets)...
+[2019.06.21-00.10.27:687][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_head_normal.Soldier_head_normal]
+[2019.06.21-00.10.27:687][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_head_normal]
+[2019.06.21-00.10.27:876][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_normal_Auto137DBA6824079CA5DA2FDDE97268A45C6.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_head_normal_Auto1.uasset'
+[2019.06.21-00.10.27:879][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_head_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.27:900][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_head_diffuse.Soldier_head_diffuse]
+[2019.06.21-00.10.27:900][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_head_diffuse]
+[2019.06.21-00.10.28:863][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_head_diffuse_Auto150B777334AB373AFD332208ED93C799D.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_head_diffuse_Auto1.uasset'
+[2019.06.21-00.10.29:340][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_specular] ([1] browsable assets)...
+[2019.06.21-00.10.29:365][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_Body_specular.Soldier_Body_specular]
+[2019.06.21-00.10.29:365][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_specular]
+[2019.06.21-00.10.29:395][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_specular_Auto17BD76CF64BE0D108476A4CB6E2B222B8.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_Body_specular_Auto1.uasset'
+[2019.06.21-00.10.29:397][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_normal] ([1] browsable assets)...
+[2019.06.21-00.10.29:412][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_Body_normal.Soldier_Body_normal]
+[2019.06.21-00.10.29:412][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_normal]
+[2019.06.21-00.10.29:919][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_normal_Auto19A1CD58D4912EF39F277C5971A77F0E8.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_Body_normal_Auto1.uasset'
+[2019.06.21-00.10.29:924][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_diffuse] ([1] browsable assets)...
+[2019.06.21-00.10.29:942][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Mesh/Swat_fbm/Soldier_Body_diffuse.Soldier_Body_diffuse]
+[2019.06.21-00.10.29:942][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Mesh/Swat_fbm/Soldier_Body_diffuse]
+[2019.06.21-00.10.30:464][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Soldier_Body_diffuse_Auto1FEA9BA854217E127BA96C7B03B7381AC.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Mesh/Swat_fbm/Soldier_Body_diffuse_Auto1.uasset'
+[2019.06.21-00.10.30:467][392]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Character/Blendspace_Graph_1] ([2] browsable assets)...
+[2019.06.21-00.10.30:479][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Blendspace_Graph_1.Blendspace_Graph_1]
+[2019.06.21-00.10.30:489][392]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Blendspace_Graph_1.Blendspace_Graph_0]
+[2019.06.21-00.10.30:489][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Blendspace_Graph_1]
+[2019.06.21-00.10.31:005][392]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Blendspace_Graph_1_Auto1BE42EC9F4EA75C48F2C3AEB94A415A39.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Autosaves/Game/Character/Blendspace_Graph_1_Auto1.uasset'
+[2019.06.21-00.10.31:008][392]LogFileHelpers: Auto-saving content packages took 15.304
+[2019.06.21-00.11.07:037][198]LogSlate: Window 'Message Log' being destroyed
+[2019.06.21-00.11.07:043][198]LogSlate: Window 'Message Log' being destroyed
+[2019.06.21-00.11.19:752][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.06.21-00.11.20:325][551]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMap4865B870443A4C29CECCB294326DB35B.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.21-00.11.21:001][551]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMap_BuiltDataF628C0814D6B1C4D021347AAA502E651.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
