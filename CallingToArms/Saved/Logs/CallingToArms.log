@@ -1630,3 +1630,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.08-06.44.41:267][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
 [2019.07.08-06.44.41:572][557]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMap695198784152EB081ED1D3907FE11FEC.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.07.08-06.44.42:476][557]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonExampleMap_BuiltDataF005376347E0E94E0716FCBDEC8C2E51.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.07.08-06.46.48:024][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.07.08-06.46.49:545][ 29]LogSlate: Window 'Save Content' being destroyed
+[2019.07.08-06.46.49:679][ 29]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK47_bot15E395DF4821DCABDD3DB381A253A69A.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Blueprints/AK47_bot.uasset'
+[2019.07.08-06.46.49:884][ 29]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Swat_Amin_BP6A76ED414A94E9F45A8AA19F2E473CFE.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Blueprints/Character/Swat_Amin_BP.uasset'
+[2019.07.08-06.46.50:190][ 29]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/ThirdPersonCharacterBE17EB0B429D419B4FD3A2B5DE8595A2.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.07.08-06.46.50:333][ 29]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/AK_Skeleton7C72A6124FC4B0564A055E9887EFDFCF.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Skeleton.uasset'
+[2019.07.08-06.46.50:439][ 29]LogSavePackage: Moving '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Saved/Weapon_base615CD65F4E5275571FED6C8D92F084DB.tmp' to '../../../../../../Autodesk/WI/Autodesk 3ds Max 2020/CallingToArms/CallingToArms/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.uasset'
+[2019.07.08-06.46.50:814][ 29]LogSlate: Window 'CallingToArms - Unreal Editor' being destroyed
+[2019.07.08-06.46.51:688][ 30]Cmd: QUIT_EDITOR
+[2019.07.08-06.46.53:142][ 30]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.08-06.46.53:387][ 30]LogExit: Preparing to exit.
+[2019.07.08-06.46.58:996][ 30]LogExit: Editor shut down
+[2019.07.08-06.46.59:166][ 30]LogExit: Transaction tracking system shut down
